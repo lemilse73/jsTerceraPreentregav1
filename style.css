@@ -1,0 +1,34 @@
+
+.contenedor-superior {
+    background-color: #3498db;
+    text-align: center; 
+    position: absolute;
+    top: 5%; 
+    left: 40%; 
+    transform: translateX(-50%); 
+    color: #fff;
+}
+
+
+.contenedor-principal {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-wrap: wrap; 
+    margin-top: 10px;
+}
+
+
+.contenedor-disenos {
+    background-color: #3498db;
+    margin: 60px;
+    color: #fff;
+}
+
+
+
+.contenedor-remodelaciones {
+    background-color: #3498db;
+    margin: 60px;
+    color: #fff;
+}
